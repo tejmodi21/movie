@@ -1,0 +1,3 @@
+export const MOVIES_LIST = 'MOVIES_LIST';
+export const MOVIE_DETAILS = 'MOVIE_DETAILS';
+export const AUTH_DETAILS = 'AUTH_DETAILS';
